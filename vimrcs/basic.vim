@@ -153,7 +153,7 @@ if $COLORTERM == 'gnome-terminal'
 endif
 
 try
-    colorscheme desert
+    colorscheme base16-monokai
 catch
 endtry
 

@@ -28,8 +28,9 @@ set guioptions-=l
 set guioptions-=L
 
 " Colorscheme
+let base16colorspace=256
 set background=dark
-colorscheme peaksea
+colorscheme base16-monokai
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
